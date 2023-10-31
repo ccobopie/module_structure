@@ -1,7 +1,7 @@
-from module_structure.tensor_operators import *
+from module_structure.Tensors import *
 
 
-__all__ = tensor_operators.__all__
+__all__ = Tensors.__all__
 
 MAJOR = 1
 MINOR = 0
