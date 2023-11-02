@@ -1,7 +1,7 @@
 
 import torch
-
-class TensorOperations:
+__all__ = ['TensorCalculator']
+class TensorCalculator:
 
     @staticmethod
     def all_zeros(size):
